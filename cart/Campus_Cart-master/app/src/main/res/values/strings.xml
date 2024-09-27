@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Campus Cart</string>
+
+    <!-- Text View -->
+    <string name="login">Login</string>
+    <string name="signUp">Sing Up</string>
+    <string name="forgotPass">Forgot Your Password?</string>
+    <string name="or">-----  or  -----</string>
+    <string name="createAccount">Don\'t have an account? Sign Up</string>
+
+    <!-- Content Description -->
+    <string name="logoImg">Image of the App Logo</string>
+    <string name="userImg">Image for User Account</string>
+    <string name="lockImg">Image for Password</string>
+
+    <!-- Edit Text -->
+    <string name="Email">Enter Email</string>
+    <string name="Uname">Enter User Name</string>
+    <string name="Password">Enter Password</string>
+    <string name="ConfirmPassword">Confirm Password</string>
+    <string name="NewPassword">New Password</string>
+    <string name="Phone">Enter Phone Number</string>
+
+</resources>
